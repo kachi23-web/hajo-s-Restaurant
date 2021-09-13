@@ -32,11 +32,11 @@
 }
 
 .slide-1 {
-    background-image: url(./img/slide/home-bg-slideshow2.jpg);
+    background-image: url(../img/slide/home-bg-slideshow2.jpg);
 }
 
 .slide-2 {
-    background-image: url(./img/slide/home-bg-slideshow1.jpg);
+    background-image: url(../img/slide/home-bg-slideshow1.jpg);
 }
 
 .slide-content {
